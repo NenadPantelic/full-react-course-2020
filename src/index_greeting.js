@@ -56,6 +56,7 @@ const Greeting4 = () => {
     </div>
   );
 };
+
 const Person = () => <h2>Nenad</h2>;
 const Message = () => <p>This is my message</p>;
 // we need self-closing tag for elements that do not have closing tag
